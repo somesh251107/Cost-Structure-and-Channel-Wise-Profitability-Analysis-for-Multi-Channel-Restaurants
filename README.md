@@ -1,0 +1,2 @@
+# Cost-Structure-and-Channel-Wise-Profitability-Analysis-for-Multi-Channel-Restaurants
+A comprehensive Financial Analytics and Business Intelligence project that analyzes cost structures and channel-wise profitability for multi-channel restaurants. The project evaluates In-Store, Uber Eats, DoorDash, and Self-Delivery operations using exploratory data analysis (EDA), financial KPIs, cost decomposition, profit margin analysis.
